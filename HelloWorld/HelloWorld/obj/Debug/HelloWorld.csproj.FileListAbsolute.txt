@@ -1,0 +1,7 @@
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\klync\Source\Repos\MVACSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
