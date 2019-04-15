@@ -64,6 +64,7 @@ namespace EnumsAndSwitch
         }
     }
 
+    /*new todo class*/
     class Todo
     {
         public string Description { get; set; }
