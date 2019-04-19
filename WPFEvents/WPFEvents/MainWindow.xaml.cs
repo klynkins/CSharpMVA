@@ -30,7 +30,7 @@ namespace WPFEvents
         {
             //throw new NotImplementedException();
             myOtherLabel.Content = "Hello Again";
-            /*second label*/
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
