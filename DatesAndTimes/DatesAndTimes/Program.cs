@@ -30,6 +30,7 @@ namespace DatesAndTimes
             TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
             Console.WriteLine(myAge.TotalDays);
             Console.ReadLine();
+            /* parallels test*/
         }
     }
 }
